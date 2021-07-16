@@ -11,11 +11,13 @@ As the Argo Community grows, we'd like to keep track of our users. Please send a
 Currently, the following organizations are **officially** using Argo Workflows:
 
 1. [23mofang](https://www.23mofang.com/)
+1. [7shifts](https://www.7shifts.com)
 1. [Acquia](https://www.acquia.com/)
 1. [Adevinta](https://www.adevinta.com/)
 1. [Admiralty](https://admiralty.io/)
 1. [Adobe](https://www.adobe.com/)
 1. [Alibaba Cloud](https://www.alibabacloud.com/about)
+1. [Alibaba Group](https://www.alibabagroup.com/)
 1. [Ant Group](https://www.antgroup.com/)
 1. [AppDirect](https://www.appdirect.com/)
 1. [Astraea](https://astraea.earth/)
@@ -56,8 +58,9 @@ Currently, the following organizations are **officially** using Argo Workflows:
 1. [Gardener](https://gardener.cloud/)
 1. [GitHub](https://github.com/)
 1. [Gladly](https://gladly.com/)
+1. [Glovo](https://www.glovoapp.com)
 1. [Google](https://www.google.com/intl/en/about/our-company/)
-1. [Graviti](https://www.graviti.cn)
+1. [Graviti](https://www.graviti.com)
 1. [Greenhouse](https://greenhouse.io)
 1. [Habx](https://www.habx.com/)
 1. [Helio](https://helio.exchange)
@@ -72,6 +75,7 @@ Currently, the following organizations are **officially** using Argo Workflows:
 1. [İşbank](https://www.isbank.com.tr/en)
 1. [Jungle](https://www.jungle.ai/)
 1. [Karius](https://www.kariusdx.com/)
+1. [KarrotPay](https://www.daangnpay.com/)
 1. [Kasa](https://www.kasa.co.kr/)
 1. [KintoHub](https://www.kintohub.com/)
 1. [Localytics](https://www.localytics.com/)
@@ -123,6 +127,7 @@ Currently, the following organizations are **officially** using Argo Workflows:
 1. [Vispera](https://www.vispera.co)
 1. [Wavefront](https://www.wavefront.com/)
 1. [Wellcome Trust](https://wellcome.ac.uk/)
+1. [VMware](https://www.vmware.com/)
 1. [Woolworths Group](https://www.woolworthsgroup.com.au/)
 1. [Zhihu](https://www.zhihu.com/)
 
@@ -132,5 +137,5 @@ In addition, the following projects are **officially** using Argo Workflows:
 
 1. [Couler](https://github.com/couler-proj/couler)
 1. [Kubeflow](https://www.kubeflow.org/)
-2. [Onepanel](https://github.com/onepanelio/onepanel)
-3. [SQLFlow](https://github.com/sql-machine-learning/sqlflow)
+1. [Onepanel](https://github.com/onepanelio/onepanel)
+1. [SQLFlow](https://github.com/sql-machine-learning/sqlflow)
